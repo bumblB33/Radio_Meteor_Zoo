@@ -1,0 +1,45 @@
+docs/
+src/
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+dist/
+build/
+*.log
+coverage/
+*.sqlite3
+*.egg-info/
+pip-wheel-metadata/
+.mypy_cache/
+.pytest_cache/
+htmlcov/
+.tox/
+
+# File types to ignore
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+# Media files
+*.wav
+*.flac
+*.html
+# Data files
+*.xls
+*.xlsx
+*.csv
+*.tsv
+*.bak
+*.json
+*.xml
+# Temporary files
+*.swp
+*.tmp
+*.old
