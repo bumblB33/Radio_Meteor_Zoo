@@ -21,14 +21,10 @@ htmlcov/
 # File types to ignore
 
 # Archive files
-*.zip
 *.tar.gz
 *.rar
 *.7z
-# Media files
-*.wav
-*.flac
-*.html
+
 # Data files
 *.xls
 *.xlsx
